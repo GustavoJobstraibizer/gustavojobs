@@ -1,0 +1,23 @@
+{
+  "name": "gustavojobs",
+  "version": "1.0.0",
+  "description": "Gustavo Jobstraibizer, the person",
+  "main": "./info.json",
+  "bin": {
+    "gustavojobs": "./gustavojobs.js"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "author": "Gustavo Jobstraibizer",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gustavojobstraibizer/gustavojobs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Gustavojobstraibizer/gustavojobs/issues"
+  },
+  "homepage": "https://github.com/Gustavojobstraibizer/gustavojobs#readme"
+}
